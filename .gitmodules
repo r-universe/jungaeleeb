@@ -5,3 +5,6 @@
 [submodule "accelmissing"]
 	path = accelmissing
 	url = https://github.com/cran/accelmissing
+[submodule "distanceHD"]
+	path = distanceHD
+	url = https://github.com/cran/distanceHD
